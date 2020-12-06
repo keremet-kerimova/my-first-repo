@@ -48,3 +48,11 @@ text-decoration: none;
      text-align: right;
      text-shadow: sienna;
  }
+ main{
+     column-count: inherit;
+     background-origin: padding-box;
+ }
+ section{
+     display: inline;
+
+grid-template-columns: inherit;    }
