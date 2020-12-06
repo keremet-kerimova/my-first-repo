@@ -1,3 +1,5 @@
+
+/*
 p{
     background-color: black;
     text-decoration: none;
@@ -28,3 +30,17 @@ footer{
     background-color: saddlebrown;
     width: 25px;
 }
+*/
+h1{
+    color: white;
+    background-color: black;
+    text-align: right;
+
+text-decoration: none;
+}
+ header p{
+     color: red;
+     background-color: saddlebrown;
+     font-family: 'Courier New', Courier, monospace;
+
+ }
